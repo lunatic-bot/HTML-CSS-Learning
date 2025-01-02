@@ -1,0 +1,11 @@
+/* Selector */
+h1 {
+    font-size: 30px;
+}
+/* property: value */
+
+
+/* Universal Selector */
+*{
+    font-size: 30px;
+}
