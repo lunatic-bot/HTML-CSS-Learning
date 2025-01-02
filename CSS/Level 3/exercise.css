@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#nav h1 {
+    background-color: aquamarine;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#inner {
+    font-size: 10px;
+}
+
+#outer {
+    font-size: 25px;
+}
